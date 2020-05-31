@@ -4,5 +4,6 @@ let num1=31;
 let num2=2;
 
 let multiply= num1*num2;
-math.ceil(math.random()+1);
+let random=math.ceil(math.random()*10)+1;
+let mod=35/3
 
