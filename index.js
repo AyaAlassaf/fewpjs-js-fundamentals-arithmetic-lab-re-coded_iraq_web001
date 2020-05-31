@@ -5,5 +5,5 @@ let num2=2;
 
 let multiply= num1*num2;
 let random=math.ceil(math.random()*10)+1;
-let mod=35/3
+let mod=40/6;
 
